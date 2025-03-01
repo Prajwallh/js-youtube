@@ -32,7 +32,7 @@ console.log(typeof marks);
 let score = String(marks);
 console.log(typeof score);
 
-//Sometimes we get NaN (not a number) in case we convert strin gto number and we get 0 when we convert null, undefined = NaN, string = NaN.
+//Sometimes we get NaN (not a number) in case we convert string to number and we get 0 when we convert null, undefined = NaN, string = NaN.
 // "33" => 33
 // "33abc" => NaN
 
