@@ -47,3 +47,5 @@ console.log(a4.splice(1,3)); //this also does the same as slice but it changes t
 console.log("D",a4);
 
 
+
+
