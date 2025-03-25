@@ -32,7 +32,7 @@ console.log(a1.includes(10));     //tells wheater the specified value is in araa
 console.log(a1.indexOf(85));  //gives the index of the number or the specified data in the arrays (returns -1 if data not there)
 
 //join method
-const a3 = a1.join();  //this method joins the data to the new variable declared and converts it to string datatype
+const a3[] = a1.join();  //this method joins the data to the new variable declared and converts it to string datatype
 console.log(a3);
 
 //slice or splice
